@@ -1,2 +1,2 @@
 ### Try yourself
-https://adrianknapp.github.io/Medicenter/
+https://adrianknapp.github.io/medicenter/
